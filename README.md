@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# Social App - Frontend Implementation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+Welcome to the frontend repository of Social App! This repository contains the code for the user interface and client-side functionalities of the Social App, providing a seamless and interactive experience for users.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **React 18:** Utilizing the latest version of the React library for building user interfaces.
+- **Redux:** Managing state efficiently with Redux for a scalable and predictable state container.
+- **React Router:** Implementing navigation and routing with React Router for a single-page application feel.
+- **Axios:** Making asynchronous HTTP requests with Axios for efficient data fetching.
+- **Responsive Design:** Ensuring a consistent and user-friendly experience across various devices.
+- **CSS Preprocessor (SASS):** Enhancing styling capabilities with a CSS preprocessor for maintainability.
+- **Material-UI:** Using Material-UI components for a cohesive and visually appealing design.
+- **Formik and Yup:** Simplifying form handling and validation.
+- **Slick Carousel:** Implementing a responsive image carousel for a dynamic user interface.
+- **WebSocket Integration:** Utilizing WebSocket for real-time communication with Zego Cloud and Zego ZIM Web.
+- **Testing Libraries:** Incorporating testing libraries for efficient and reliable testing.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Prerequisites
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Node.js (Recommended version: LTS)
+- npm (Node Package Manager)
 
-### `npm test`
+## Setup Instructions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository: `git clone <repository_url>`
+2. Navigate to the project directory: `cd social-app-frontend`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
 
-### `npm run build`
+The application should be accessible at `http://localhost:3000/`.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Configuration
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Adjust the configuration settings in `src/config.js` or other relevant files as needed. This may include API endpoints, authentication settings, or other environment-specific configurations.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Images
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Register Page](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/219f4026-ed5e-4f27-a60b-dee1b8d96ec1)
+)
+![Login Page](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/95ae0e96-6fd0-4f01-80c6-f8c05eb64663)
+)
+![Social App Homepage](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/1c36ee0a-e070-47be-82bd-62cbce92442d)
+)
+![Post Section](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/86015d78-05cb-4d38-b950-d313c58c7f23)
+)
+![Profile Section](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/e3566fbd-23cb-46ee-a557-668a6d585ad2)
+)
+![Profile Update Form](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/7006af15-b269-4754-8c30-6ea0f664dea7)
+)
+![Chat Section](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/54fd5683-ffa0-40d3-80e1-212f90cfa62e)
+)
