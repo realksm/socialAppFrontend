@@ -39,17 +39,16 @@ Adjust the configuration settings in `src/config.js` or other relevant files as 
 ## Images
 
 
-![Register Page](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/219f4026-ed5e-4f27-a60b-dee1b8d96ec1)
-)
-![Login Page](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/95ae0e96-6fd0-4f01-80c6-f8c05eb64663)
-)
-![Social App Homepage](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/1c36ee0a-e070-47be-82bd-62cbce92442d)
-)
-![Post Section](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/86015d78-05cb-4d38-b950-d313c58c7f23)
-)
-![Profile Section](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/e3566fbd-23cb-46ee-a557-668a6d585ad2)
-)
-![Profile Update Form](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/7006af15-b269-4754-8c30-6ea0f664dea7)
-)
-![Chat Section](![image](https://github.com/realksm/socialAppFrontend/assets/73066899/54fd5683-ffa0-40d3-80e1-212f90cfa62e)
-)
+![Register Page](https://github.com/realksm/socialAppFrontend/assets/73066899/219f4026-ed5e-4f27-a60b-dee1b8d96ec1)
+
+![Login Page](https://github.com/realksm/socialAppFrontend/assets/73066899/95ae0e96-6fd0-4f01-80c6-f8c05eb64663)
+
+![Social App Homepage](https://github.com/realksm/socialAppFrontend/assets/73066899/1c36ee0a-e070-47be-82bd-62cbce92442d)
+
+![Post Section](https://github.com/realksm/socialAppFrontend/assets/73066899/86015d78-05cb-4d38-b950-d313c58c7f23)
+
+![Profile Section](https://github.com/realksm/socialAppFrontend/assets/73066899/e3566fbd-23cb-46ee-a557-668a6d585ad2)
+
+![Profile Update Form](https://github.com/realksm/socialAppFrontend/assets/73066899/7006af15-b269-4754-8c30-6ea0f664dea7)
+
+![Chat Section](https://github.com/realksm/socialAppFrontend/assets/73066899/54fd5683-ffa0-40d3-80e1-212f90cfa62e)
